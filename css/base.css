@@ -7,6 +7,14 @@ body {
   padding: 30px;
 }
 
+input {
+  background-color: gold;
+}
+input:focus {
+  background-color: red;
+}
+
+
 a {
   color: #4183c4;
   text-decoration: none;
